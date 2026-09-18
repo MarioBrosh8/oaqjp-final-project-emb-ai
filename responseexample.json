@@ -1,0 +1,19 @@
+{'emotionPredictions': [
+        {'emotion': {
+            'anger': 0.010980616, 
+            'disgust': 0.0040798546, 
+            'fear': 0.03194312, 
+            'joy': 0.9807161, 
+            'sadness': 0.024121352
+            }, 
+            'target': '',
+            'emotionMentions': [
+                {'span': {'begin': 0, 'end': 13, 'text': 'I love python'
+                    }, 'emotion': {'anger': 0.010980616, 'disgust': 0.0040798546, 'fear': 0.03194312, 'joy': 0.9807161, 'sadness': 0.024121352
+                    }
+                }
+            ]
+        }
+    ], 'producerId': {'name': 'Ensemble Aggregated Emotion Workflow', 'version': '0.0.1'
+    }
+}
